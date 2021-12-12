@@ -30,7 +30,7 @@ int main()
     printf("SUNDAY");
         break;
     default:
-    printf("Invalid Input!!!");
+    printf("Invalid Input");
     }
     return 0;
 }
