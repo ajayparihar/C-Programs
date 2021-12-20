@@ -16,7 +16,7 @@ int fib(int num)
 int main()
 {
     int number;
-    printf("Enter a NUMBER\n");
+    printf("Enter the position of FIBONACCI series\n");
     scanf("%d", &number);
     printf("%d", fib(number));
     return 0;
