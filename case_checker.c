@@ -5,6 +5,7 @@ int main()
     char c;
     printf("Enter a CHARACTER\n");
     scanf("%c", &c);
+    printf("Enter a\n");
     if (c >= 'a' && c <= 'z')
     {
         printf("CHARACTER %c is in LOWERCASE\n", c);
