@@ -25,7 +25,7 @@ int main()
 
     else if (num1 == num2 && num1 == num3)
     {
-        printf("All NUMBERS are EQUAL to %d\n",num1);
+        printf("All NUMBERS are EQUAL to %d\n", num1);
     }
 
     else if (num1 == num2)
