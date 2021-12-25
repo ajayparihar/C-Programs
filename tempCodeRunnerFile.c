@@ -1,3 +1,3 @@
-
-    return 0;
-}
+char c;
+    printf("Enter a CHARACTER\n");
+    scanf("%c", &c);
