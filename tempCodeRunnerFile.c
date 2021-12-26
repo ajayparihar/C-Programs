@@ -1,3 +1,2 @@
-char c;
-    printf("Enter a CHARACTER\n");
-    scanf("%c", &c);
+GLE\n");
+    scanf("%d", &angle3);
